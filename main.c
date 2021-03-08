@@ -10,6 +10,13 @@ feature1()
   //Sample Code for Feature 1
 }
 
+security patch()
+{
+	//security patched applied in feature 1
 
 
 }
+
+
+}
+
